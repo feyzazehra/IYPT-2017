@@ -1,21 +1,14 @@
-
-
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
-
-#  (buraya proje başlığını yazınız)
-## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+9-E  | FEYZA MAT | 627
+9-E  | ZEHRA TAMSAN | 
+#  
+## 
+  Projemiz için seçtiğimiz sorumuz 2015 yılının 16.sorusu Wet and Dark (Koyu ve Islak)tır. Soruda, giysilerin ıslatıldığında daha koyu görünmesinin ve ağır olmasının sebebini araştırmamız isteniyor.
+  Araştırmamızdaki metodumuz, sorumuza uygun olan bilimsel araştırma basamaklarını izlemek olacaktır. Bilimsel araştırma basamaklarının işlenmesini daha aydınlqtıcı ve açıklayıcı olarak görmekteyiz. Bilimsel araştırma basamaklarında ilk yaptığımız gözlem yapıp sorun belirlemektir. Ancak bize yapılmış bir gözlem ve belirlenmiş bir sorun verilmiş. Biz de bu sorun üzerinden devam edeceğiz. Öncelikle gözlem yapmak ve veri toplamak ilk adımımız olacaktır. Bunun için gerekli malzemeleri (Aynı ebatlarda 2 adet T-shirt, 2 adet hassas terazi, yaklaşık 1.5 litre su) temin edecek, biri ıslak biri kuru olmak üzere 2 adet T-shirtü şu şekilde inceleyeceğiz:
+  Hassas terazimizle kütlelerini ölçüp ardından gerekli hesaplamaları yaparak ağırlıklarını tespit edeceğiz.Daha sonra ağırlık farkını gözlemleyeceğiz. Renk durumunu da iki T-shirtümüzü de gün ışığına tutarak duyu organlarımız yardımıyla nitel bir şekilde gözlemleyip renk farkı durumunu da incelemiş olacağız. 
+  Bu farklılıkların sebeplerini bulmak için de birçok yol izlemeyi öngörmekteyiz. Öncelikle konumuzu bu konuda bilgi sahibi büyüklerimize sunup görüşlerini alacağız. Bu sayede  projemizde başarıya ulaşmak için birçok farklı bakış açısı kazanmayı hedeflemekteyiz. Bu görüşleri de kendi görüşlerimizle birleştirerek deney üzerinde doğrulukları bulup raporumuzda kullanacağız. Ancak tabi ki sadece bu yöntemle yetinmeyeceğiz. Okulumuz Çapa Fen Lisesi'nin kütüphanesinde bulunan Fizik dalı altında yazılmış olan ansiklopedileri temin edip içinde konumuzla ilgili bölümlerş okuyup gerekli notları alarak deneyimiz üzerinde netleştirmek niyetindeyiz. Aynı zamanda çağımızın en gelişmiş bilgi ağlarından olan internetten de faydalanacağız. Kaynakçada belirtmiş olduğumuz siteler, bizi bu projemizde aydınlatacak olan sitelerdir. Bu soru üzerinde önceden yapılmış çalışmalara da göz kulak olarak kendi bakış açı, hayal gücü özelliklerimizi kullanarak zeki ve mantıklı bir düşünce sistemiyle raporumuzu hazırlayıp, sunacağız.
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
-
+ 1. http://solutions.iypt.org/uploads/2015_RU_Wet_and_dark_Nikita_Grushetsky_Maria_Mukhina_Egor_Shamanov_1441073708.pdf
+ 2. http://iypt.org/images/8/87/problems2015.pdf
+ 3. http://www.worldscientific.com/worldscibooks/10.1142/10596
+ 4. http://homepage.univie.ac.at/heinz.kabelka/problems.html
