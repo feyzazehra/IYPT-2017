@@ -1,7 +1,7 @@
 9-E  | FEYZA MAT | 627
 9-E  | ZEHRA TAMSAN | 634
 # WET and DARK
-## 
+## Özet
 Projemiz için seçtiğimiz sorumuz 2015 yılının 16.sorusu Wet and Dark (Koyu ve Islak)tır. Soruda, giysilerin ıslatıldığında daha koyu görünmesinin ve ağır olmasının sebebini araştırmamız isteniyor.
   Araştırmamızdaki metodumuz, sorumuza uygun olan bilimsel araştırma basamaklarını izlemek olacaktır. Bilimsel araştırma basamaklarının işlenmesini daha aydınlatıcı ve açıklayıcı olarak görmekteyiz. Bilimsel araştırma basamaklarında ilk yaptığımız gözlem yapıp sorun belirlemektir. Ancak bize yapılmış bir gözlem ve belirlenmiş bir sorun verilmiş. Biz de bu sorun üzerinden devam edeceğiz. Öncelikle gözlem yapmak ve veri toplamak ilk adımımız olacaktır. Bunun için gerekli malzemeleri (Aynı ebatlarda 2 adet T-shirt, 2 adet hassas terazi, yaklaşık 1.5 litre su) temin edecek, biri ıslak biri kuru olmak üzere 2 adet T-shirtü şu şekilde inceleyeceğiz:
   Hassas terazimizle kütlelerini ölçüp ardından gerekli hesaplamaları yaparak ağırlıklarını tespit edeceğiz.Daha sonra ağırlık farkını gözlemleyeceğiz. Renk durumunu da iki T-shirtümüzü de gün ışığına tutarak duyu organlarımız yardımıyla nitel bir şekilde gözlemleyip renk farkı durumunu da incelemiş olacağız. 
