@@ -8,7 +8,12 @@ Projemiz için seçtiğimiz sorumuz 2015 yılının 16.sorusu Wet and Dark (Koyu
   Bu farklılıkların sebeplerini bulmak için de birçok yol izlemeyi öngörmekteyiz. Öncelikle konumuzu bu konuda bilgi sahibi büyüklerimize sunup görüşlerini alacağız. Bu sayede  projemizde başarıya ulaşmak için birçok farklı bakış açısı kazanmayı hedeflemekteyiz. Bu görüşleri de kendi görüşlerimizle birleştirerek deney üzerinde doğrulukları bulup raporumuzda kullanacağız. Ancak tabi ki sadece bu yöntemle yetinmeyeceğiz. Okulumuz Çapa Fen Lisesi'nin kütüphanesinde bulunan Fizik dalı altında yazılmış olan ansiklopedileri temin edip içinde konumuzla ilgili bölümleri okuyup gerekli notları alarak deneyimiz üzerinde netleştirmek niyetindeyiz. Aynı zamanda çağımızın en gelişmiş bilgi ağlarından olan internetten de faydalanacağız. Kaynakçada belirtmiş olduğumuz siteler, bizi bu projemizde aydınlatacak olan sitelerdir. Bu soru üzerinde önceden yapılmış çalışmalara da göz atacak, kendi bakış açı, hayal gücü özelliklerimizi kullanarak zeki ve mantıklı bir düşünce sistemiyle raporumuzu hazırlayıp, sunacağız.
 
 ## Kaynakçalar  
- 1. http://solutions.iypt.org/uploads/2015_RU_Wet_and_dark_Nikita_Grushetsky_Maria_Mukhina_Egor_Shamanov_1441073708.pdf
- 2. http://iypt.org/images/8/87/problems2015.pdf
- 3. http://www.worldscientific.com/worldscibooks/10.1142/10596
- 4. http://homepage.univie.ac.at/heinz.kabelka/problems.html
+ 1.J.Lekner and M.C.Drof.Why some things are darker when wet.Appl.Optics 27,7,1278-1280(1998)
+ 2.Eugene Hecht.Optics(Addison-Wesley Longman,2002)
+ 3.H. B. Mall Jr and N. da Vitoria Lobo. Determining wet surfaces from dry. IEEE Proc. 5th Intl Conf on Computer Vision, 963-968 (1995)
+ 4.K. L. Coulson, G. M. Bouricius, and E. L. Gray. Optical reflection properties of natural surfaces. J. Geophys. Res. 70, 18, 4601-4611 (1965)
+ 5.S. A. Twomey, C. F. Bohren, and J. L. Mergenthaler. Reflectance and albedo differences between wet and dry surfaces. Appl. Optics 25, 3, 431-437 (1986)
+ 6.W. Philpot. Spectral Reflectance of Wetted Soild. Proc. ASD and IEEE GRS, II (Boulder, 2010), http://www.asdi.com/getmedia/eeeb7ad1-c964-44fd-9404- d4870657e738/Spectral-Reflectance-of-Wetted-Soils.pdf.aspx
+ 7.Scientists discover why wet soil is dark (scottishsceptic.wordpress.com, 2011),http://scottishsceptic.wordpress.com/2011/04/01/scientists-discover-why-wet-soil- is-dark/
+ 8.Why wet is dark?(physics.stackexchange.com)http://physics.stackexchange.com/questions/30366/why-wet-is-dark
+ 
