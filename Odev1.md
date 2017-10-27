@@ -23,4 +23,10 @@ Projemiz için seçtiğimiz sorumuz 2015 yılının 16.sorusu Wet and Dark (Koyu
   7.Scientists discover why wet soil is dark (scottishsceptic.wordpress.com, 2011),http://scottishsceptic.wordpress.com/2011/04/01/scientists-discover-why-wet-soil- is-dark/
 
   8.Why wet is dark?(physics.stackexchange.com)http://physics.stackexchange.com/questions/30366/why-wet-is-dark
+
+  9.http://kit.ilyam.org/FDD_2015_IYPT_Reference_kit.pdf 
+
+  10.http://solutions.iypt.org/uploads/2015_RU_Wet_and_dark_Nikita_Grushetsky_Maria_Mukhina_Egor_Shamanov_1441073708.pdf
+
+  11.http://www.sypt.ch/images/downloads/2015/BookletSYPT2015.pdf
  
